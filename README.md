@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python, Data Science, Web Development.<br>👯 I’m looking to collaborate on Open Source Project.<br>🌱 I’m currently learning JAVA.<br>⚡ Fun fact I love VS code.
+🔭 I’m currently working on Python, C++, Web Development.<br>👯 I’m looking to collaborate on Open Source Project.<br>🌱 I’m currently learning React.js.<br>⚡ Fun fact I love VS code.
 
 
 ## 🌐 Socials:
